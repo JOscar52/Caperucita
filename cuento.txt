@@ -1,0 +1,20 @@
+Esta historia sirve para hacer un ejercicio con las versiones de git
+Ahora le agrego parte de una historia:
+ Este cuento se narra desde hace mucho tiempo, tanto que ya nadie sabe cuánto.
+ En ese tiempo el ser humano convivía con muchos animales y algunos de ellos se dedicaban
+ a cazar.
+ Cómo dato curioso pueden uscar en intrnet la época de la edad meia y encontrarán que 
+ el mayor depredador del hombre era el "lobo"
+ Quizá de ese miedo primario que todos tenemos fue que se inició la leyenda del "Hombre Lobo"
+ Erase una vez que una niña que siempre usaba una caperuza de color rojo cuando nueva 
+ y ahora deteriorada por el tiempo.
+ La niña gustaba de pasear por el bosque y la caperuca desteñida le ayudaba a confundirse con 
+ el follaje del bosque, especialmente en otoño que muchas de las hojas toman un color rojizo 
+ similar al de la desteñida tela.
+ 
+ Cómo de costumbre la pequeña niña salió a caminar por el bosue, solo que esta vez se alejó del ´
+ camino y se internó en la espsura del bosque donde encontró una cabaña rodeada de árboles
+ cerca de un arroyo.
+
+ 
+ 
